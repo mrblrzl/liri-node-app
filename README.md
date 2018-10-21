@@ -9,14 +9,14 @@ https://drive.google.com/file/d/1JgateN8iLfAShf8bdwOrG3BGCA25DOjG/view
 
 Type in the following commands:
 
-*concert-this "your artist(s)"
+1. concert-this "your artist(s)"
 To access the Bands in Town API and find upcoming shows from your favorite artist(s) or band(s)
 
-*spotify-this-song "your song"
+2. spotify-this-song "your song"
 
 To access Spotify's API and give you track info
 
-*move-this "your movie"
+3. movie-this "your movie"
 
 To access IMBD's API and retrieve the following movie info:
 
@@ -29,6 +29,6 @@ To access IMBD's API and retrieve the following movie info:
    * Plot of the movie.
    * Actors in the movie.
 
-*do-what-it-says:
+4. do-what-it-says:
 
 call one of Liri's commands at random
